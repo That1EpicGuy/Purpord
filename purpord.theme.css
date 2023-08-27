@@ -18,7 +18,8 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://media.discordapp.net/attachments/493090126596145175/713155882212393080/a.png?width=3840&height=2160');
+  /*background-image: url('https://media.discordapp.net/attachments/493090126596145175/713155882212393080/a.png?width=3840&height=2160'); */
+  --background-image: transparent;
   --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
